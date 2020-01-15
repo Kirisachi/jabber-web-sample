@@ -5,7 +5,7 @@ Basic and advanced sample pages demonstrating the use of the [Cisco Jabber Web S
 This is a [Visual Studio Code](https://code.visualstudio.com/) based project (though it can be run using any web server, all files are static.)
 
 * basic.html - show the basics of initialization through making a two-way video call
-* sample.html - the reference sample application from the official Cisco Jabber Web SDK (11.8.2)
+* sample.html - the reference sample application from the official Cisco Jabber Web SDK (11.8.~~2~~3)
 
 **Prerequisites**
 
