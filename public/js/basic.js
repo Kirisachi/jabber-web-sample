@@ -21,7 +21,7 @@ SOFTWARE.
 // Global system/user specific info - customize 
 
 var username = "CHANGEME"; // CUCM user
-var password = "CHANGEME";
+var password = "CHANGEME"; // Password
 var cucm = ["CHANGEME"]; // CUCM ip/hostname
 
 var loginFailed = false;
